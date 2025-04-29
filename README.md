@@ -1,4 +1,4 @@
-# R-Shiny-Project---AIR-QUALITY INDEX-
+# praveen raj-Project---AIR-QUALITY INDEX-
 
 ## Introduction 
 ![AQI](https://user-images.githubusercontent.com/74179721/131791083-fca71340-d716-4cbc-810a-2600a4087f02.jpg)
